@@ -1,12 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92c0e032-63a3-4fe8-80e5-e34543f7ac0d" name="Default Changelist" comment="" />
+    <list default="true" id="92c0e032-63a3-4fe8-80e5-e34543f7ac0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpletest.go" beforeDir="false" afterPath="$PROJECT_DIR$/simpletest.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pkg1/class_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpkg/class_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pkg1/error_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpkg/error_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pkg1/interface_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpkg/interface_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pkg1/routine_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpkg/routine_test.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/simpletest.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="579">
+              <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+              <folding>
+                <element signature="e#14#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testpkg/class_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/nontest/nontest.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testpkg/echo_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testpkg/goroutine_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testpkg/reflect_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="92" column="12" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -15,7 +80,10 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="C:\Go" />
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.8.3/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GoLibraries">
     <option name="urls">
       <list>
@@ -23,15 +91,83 @@
       </list>
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/simpletest.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
   <component name="ProjectId" id="1cTsVRAzmk7xW2YUJJfInTlUKKb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_project" type="462c0819:PsiDirectoryNode" />
+              <item name="pkg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_project" type="462c0819:PsiDirectoryNode" />
+              <item name="pkg" type="462c0819:PsiDirectoryNode" />
+              <item name="darwin_amd64_race" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="http_proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nontest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="testpkg" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/simpletest.go" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="RecentsManager">
@@ -55,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build simpletest.go">
+  <component name="RunManager" selected="Go Test.go test test_project">
     <configuration name="go build simpletest.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="test_project" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -64,24 +200,24 @@
       <filePath value="$PROJECT_DIR$/simpletest.go" />
       <method v="2" />
     </configuration>
-    <configuration name="TestConversion in class_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go build test1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="test_project" />
-      <working_directory value="$PROJECT_DIR$/pkg1" />
-      <framework value="gotest" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
       <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/pkg1/class_test.go" />
-      <pattern value="^TestConversion$" />
+      <filePath value="$PROJECT_DIR$/test1.go" />
+      <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="TestError in error_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestDisplay in testpkg" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="test_project" />
-      <working_directory value="$PROJECT_DIR$/pkg1" />
+      <working_directory value="$PROJECT_DIR$/src/testpkg" />
+      <go_parameters value="-i" />
       <framework value="gotest" />
-      <kind value="FILE" />
+      <kind value="PACKAGE" />
+      <package value="testpkg" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/pkg1/error_test.go" />
-      <pattern value="^TestError$" />
+      <pattern value="^TestDisplay$" />
       <method v="2" />
     </configuration>
     <configuration name="TestGoroutine in pkg1" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -104,14 +240,26 @@
       <pattern value="^TestGoroutine1$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestInterface in interface_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestRoutine in testpkg" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="test_project" />
-      <working_directory value="$PROJECT_DIR$/pkg1" />
+      <working_directory value="$PROJECT_DIR$/src/testpkg" />
+      <go_parameters value="-i" />
       <framework value="gotest" />
-      <kind value="FILE" />
+      <kind value="PACKAGE" />
+      <package value="testpkg" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/pkg1/interface_test.go" />
-      <pattern value="^TestInterface$" />
+      <pattern value="^TestRoutine$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestScan in testpkg" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="test_project" />
+      <working_directory value="$PROJECT_DIR$/src/testpkg" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="testpkg" />
+      <directory value="$PROJECT_DIR$" />
+      <pattern value="^TestScan$" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
@@ -134,24 +282,119 @@
     </configuration>
     <list>
       <item itemvalue="Go Build.go build simpletest.go" />
+      <item itemvalue="Go Build.go build test1.go" />
       <item itemvalue="Go Test.go test test_project" />
-      <item itemvalue="Go Test.TestConversion in class_test.go" />
-      <item itemvalue="Go Test.TestInterface in interface_test.go" />
-      <item itemvalue="Go Test.TestError in error_test.go" />
       <item itemvalue="Go Test.TestGoroutine in pkg1" />
       <item itemvalue="Go Test.TestGoroutine1 in pkg1" />
+      <item itemvalue="Go Test.TestScan in testpkg" />
+      <item itemvalue="Go Test.TestRoutine in testpkg" />
+      <item itemvalue="Go Test.TestDisplay in testpkg" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestDisplay in testpkg" />
+        <item itemvalue="Go Test.TestRoutine in testpkg" />
+        <item itemvalue="Go Test.TestScan in testpkg" />
         <item itemvalue="Go Test.TestGoroutine1 in pkg1" />
         <item itemvalue="Go Test.TestGoroutine in pkg1" />
-        <item itemvalue="Go Test.TestError in error_test.go" />
-        <item itemvalue="Go Test.TestInterface in interface_test.go" />
-        <item itemvalue="Go Test.TestConversion in class_test.go" />
       </list>
     </recent_temporary>
   </component>
+  <component name="TestHistory">
+    <history-entry file="TestScan_in_testpkg - 2020.06.03 at 21h 27m 43s.xml">
+      <configuration name="TestScan in testpkg" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRoutine_in_testpkg - 2020.06.03 at 21h 27m 53s.xml">
+      <configuration name="TestRoutine in testpkg" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestDisplay_in_testpkg - 2020.06.03 at 21h 28m 03s.xml">
+      <configuration name="TestDisplay in testpkg" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_test_project - 2020.06.03 at 21h 28m 18s.xml">
+      <configuration name="go test test_project" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_test_project - 2020.06.03 at 21h 31m 19s.xml">
+      <configuration name="go test test_project" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4041096" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/testpkg/echo_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testpkg/goroutine_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testpkg/reflect_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="92" column="12" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="82" column="4" selection-start-line="82" selection-start-column="4" selection-end-line="89" selection-end-column="39" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simpletest.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+          <folding>
+            <element signature="e#14#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testpkg/class_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nontest/nontest.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>
