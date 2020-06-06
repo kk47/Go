@@ -58,28 +58,6 @@ func TestClosure1(t *testing.T)  {
 	fmt.Println(x1())
 }
 
-func TestSlice(t *testing.T) {
-	a := []int{1,2,3,4,5,6,7,8,9}
-	fmt.Println(a[:])
-	fmt.Println(a[:2])
-	fmt.Println(a[2:])
-	fmt.Println(a[1:4])
-	fmt.Println(append(a, 10,11))
-	fmt.Println(len(a))
-	fmt.Println(cap(a))
-	b := a[1:5]
-	fmt.Println(b)
-	c := make([]int, 3, 5)
-	c[0] = 10
-	fmt.Println(c)
-	c = append(c, 5,10, 11)
-	fmt.Println(c)
-	fmt.Println(cap(c))
-	d := make([]int, 5, 5)
-	copy(d, c)
-	fmt.Println(d)
-}
-
 func TestRange(t *testing.T) {
 	var arr []int = []int{1,2,3,4,5}
 	for i, v := range arr {
